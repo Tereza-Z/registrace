@@ -1,0 +1,27 @@
+.container {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+
+form {
+    display: grid;
+    row-gap: 1rem;
+    padding: 1.5rem;
+    border: 2px dotted black;
+    border-radius: 10px;
+}
+
+button {
+    width: 10rem;
+    justify-self: center;
+    border-radius: 10px;
+    height: 3rem;
+    font-size: 105%;
+}
+
+input {
+    height: 3rem;
+    border-radius: 10px;
+}
+
+
